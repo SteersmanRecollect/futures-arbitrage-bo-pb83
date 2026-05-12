@@ -1,4 +1,4 @@
-# 
+# exclusive perpetual trading bot | backtesting + take-profit is the best perpetual trading bot, featuring backtesting and take-profit. Smart, fast, and optimized for trading on
 
 
 
